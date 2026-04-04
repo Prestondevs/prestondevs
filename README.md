@@ -2,9 +2,7 @@
 
 # Hey, I'm Preston
 
-**Computer Science Student · Cybersecurity Researcher · Builder**
-
-Researching hardware-level program protection on FPGAs and leading my university's Cybersecurity Club as VP. I like systems I can touch — the closer to the metal, the better.
+**Computer Science Student and Cybersecurity Researcher**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prestondevs)
 
