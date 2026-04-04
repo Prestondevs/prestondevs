@@ -18,7 +18,6 @@
   <img src="https://skillicons.dev/icons?i=python" title="Python" />&nbsp;
   <img src="https://skillicons.dev/icons?i=cs" title="C#" />&nbsp;
   <img src="https://skillicons.dev/icons?i=bash" title="Bash" />&nbsp;
-  <img src="https://img.shields.io/badge/Verilog-FF6B00?style=for-the-badge&logo=xilinx&logoColor=white" title="Verilog" />
 </p>
 
 ## Tools & Tech
