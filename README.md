@@ -57,7 +57,7 @@
 
 ---
 
-## Projects
+## My favorite project so far
 
 ### Iris Language Compiler
 
@@ -65,11 +65,6 @@
 
 A custom programming language and compiler built from scratch. Translates `.ir` source files through a full pipeline — lexing, parsing, AST construction, and direct x86-64 assembly code generation, producing native ELF binaries via the GNU toolchain. Implements a tagged value runtime system supporting integers, floats, strings, variables, and function calls with parameter passing.
 
-### Password Manager
-
-> **Java · SQLite · AES · SHA-256**
-
-Client-server password manager with encrypted device-to-device communication over Java Sockets. Credentials are protected in transit and at rest with AES encryption and SHA-256 hashing.
 
 ---
 
