@@ -1,7 +1,94 @@
-## Hi there 👋
+<div align="center">
 
-I'm Preston, A Junior in Computer Science.
+# Hey, I'm Preston
 
-My favorite programming language has to be C++11, but I have a lot more Java projects.
+**Computer Science Student · Cybersecurity Researcher · Builder**
 
-I am currently the Vice President of my school's Cybersecurity Club.
+Researching hardware-level program protection on FPGAs and leading my university's Cybersecurity Club as VP. I like systems I can touch — the closer to the metal, the better.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prestondevs)
+
+</div>
+
+---
+
+## Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=java" title="Java" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=python" title="Python" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=cs" title="C#" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=bash" title="Bash" />
+</p>
+
+## Tools & Tech
+
+<p>
+  <img src="https://skillicons.dev/icons?i=sqlite" title="SQLite" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" title="Git" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux" title="Linux" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" />
+</p>
+
+## Security & Research
+
+<p>
+  <img src="https://img.shields.io/badge/FPGA%20%2F%20Verilog-FF6B00?style=for-the-badge&logo=xilinx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hardware%20Abstraction-6A0DAD?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/RF%20Side--Channel-222222?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/CNN%20%2F%20ResNet--18-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+</p>
+
+---
+
+## Projects
+
+### Iris Language Compiler
+> **C++17 · x86-64 Assembly · ELF · GNU Toolchain**
+
+A custom programming language and compiler built from scratch. Translates `.ir` source files through a full pipeline — lexing, parsing, AST construction, and direct x86-64 assembly code generation — producing native ELF binaries via the GNU toolchain. Implements a tagged value runtime system supporting integers, floats, strings, variables, and function calls with parameter passing.
+
+### Password Manager
+> **Java · SQLite · AES · SHA-256**
+
+Client-server password manager with encrypted device-to-device communication over Java Sockets. Credentials protected in transit and at rest with AES encryption and SHA-256 hashing.
+
+### Discord x GroupMe Bridge
+> **Python · discord.py · asyncio · REST APIs**
+
+Cross-platform messaging bridge syncing Discord and GroupMe in real time. Async event-driven architecture with full support for rich formatting and media attachments.
+
+---
+
+## Certifications
+
+| Certification | Valid |
+|---|---|
+| GIAC Security Essentials (GSEC) | 2024 – 2028 |
+| GIAC Foundational Cybersecurity Technologies (GFACT) | 2023 – 2027 |
+| IT Specialist – Python | 2023 – 2027 |
+
+---
+
+## Competitions
+
+```
+1st Place  —  Cyber.org Competition
+4th Place  —  Auburn University CyberFire
+Competed   —  CCDC (x3)
+Competed   —  National Cyber League (x2)
+Competed   —  CyberForce (x2)
+Competed   —  MITRE eCTF
+Competed   —  CyberSeed
+Competed   —  Hivestorm
+```
+
+---
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=prestondevs&color=6A0DAD&style=for-the-badge)
+
+</div>
