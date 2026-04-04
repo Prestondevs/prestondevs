@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 # Hey, I'm Preston
 
@@ -52,11 +52,6 @@ A custom programming language and compiler built from scratch. Translates `.ir` 
 > **Java · SQLite · AES · SHA-256**
 
 Client-server password manager with encrypted device-to-device communication over Java Sockets. Credentials are protected in transit and at rest with AES encryption and SHA-256 hashing.
-
-### Discord x GroupMe Bridge
-> **Python · discord.py · asyncio · REST APIs**
-
-Cross-platform messaging bridge syncing Discord and GroupMe in real time. Async event-driven architecture with full support for rich formatting and media attachments.
 
 ---
 
