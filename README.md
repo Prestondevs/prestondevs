@@ -36,21 +36,21 @@
   <tr>
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/FPGA%20%2F%20Verilog-FF6B00?style=for-the-badge&logo=xilinx&logoColor=white" /><br/>
-      <sub>RTL design and hardware implementation on Xilinx FPGAs for embedded security applications</sub>
+      <sub>Hardware design and implementation for embedded security research</sub>
     </td>
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/Hardware%20Abstraction-6A0DAD?style=for-the-badge&logoColor=white" /><br/>
-      <sub>Building abstraction layers to interface with and isolate hardware-level attack surfaces</sub>
+      <sub>Interfacing with and abstracting low-level hardware components</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/RF%20Side--Channel-222222?style=for-the-badge&logoColor=white" /><br/>
-      <sub>Capturing and analyzing RF emanations from hardware to extract sensitive data via side-channel leakage</sub>
+      <sub>Side-channel analysis and signal processing research</sub>
     </td>
     <td align="center" width="25%">
       <img src="https://img.shields.io/badge/CNN%20%2F%20ResNet--18-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /><br/>
-      <sub>Applying deep learning models to classify and exploit patterns in side-channel signal data</sub>
+      <sub>Deep learning for signal classification and pattern recognition</sub>
     </td>
   </tr>
 </table>
