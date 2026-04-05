@@ -71,7 +71,7 @@
 ---
 
 ### Competitions
-<div align="left">
+
 ```
  1st Place  —  Cyber.org Competition
  4th Place  —  Auburn University CyberFire
@@ -82,7 +82,6 @@
  Competed   —  CyberSeed
  Competed   —  Hivestorm
 ```
-</div>
 
 ---
 
