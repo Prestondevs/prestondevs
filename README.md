@@ -74,7 +74,7 @@ Computer Science Student and Software Security Researcher
 
 ---
 
-## Certifications
+### Certifications
 
 | Certification | Valid |
 |---|---|
@@ -84,7 +84,7 @@ Computer Science Student and Software Security Researcher
 
 ---
 
-## Competitions
+### Competitions
 
 ```
  1st Place  —  Cyber.org Competition
