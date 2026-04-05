@@ -62,15 +62,21 @@
 
 ### Certifications
 
+<div align="left">
+
 | Certification | Valid |
 |---|---|
 | GIAC Security Essentials (GSEC) | 2024 – 2028 |
 | GIAC Foundational Cybersecurity Technologies (GFACT) | 2023 – 2027 |
 | IT Specialist – Python | 2023 – 2027 |
 
+</div>
+
 ---
 
 ### Competitions
+
+<div align="left">
 
 ```
  1st Place  —  Cyber.org Competition
@@ -82,6 +88,8 @@
  Competed   —  CyberSeed
  Competed   —  Hivestorm
 ```
+
+</div>
 
 ---
 
