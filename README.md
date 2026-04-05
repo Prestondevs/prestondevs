@@ -1,12 +1,26 @@
 <div align="center">
 
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Preston
+<div align="center">
+  <img src="images/welcome.gif" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+  <h6>I'm preston, I enjoy working with C++, C, and all kinds of low-level stuff</h6>
+  <br />
+  <br />
+</div>
+<br>
 
-### Computer Science Student and Software Security Researcher
+<div align="center">
+  <br />
+<a href="https://samueleamato.xyz"> Prestondevs.github.io </a>
+  <br />
+  <br />
+</div>
+<br>
 
-🌍 I'm based in United States · 🖥️ See my portfolio at [this page (WIP)](http://Prestondevs.github.io)
+<br>
+<br>
 
----
+
 
 ## Skills
 
@@ -95,4 +109,3 @@
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
