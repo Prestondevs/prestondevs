@@ -1,11 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Preston
-================================================================================================================================
+<div align="center">
 
-Computer Science Student and Software Security Researcher
----------------------------------------------------------
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Preston
 
-*   🌍  I'm based in United States
-*   🖥️  See my portfolio at [this page (WIP)](http://Prestondevs.github.io)
+### Computer Science Student and Software Security Researcher
+
+🌍 I'm based in United States · 🖥️ See my portfolio at [this page (WIP)](http://Prestondevs.github.io)
+
+</div>
 
 ---
 
@@ -70,7 +71,6 @@ Computer Science Student and Software Security Researcher
 <a href="http://www.github.com/prestondevs"><img src="https://github-readme-stats.vercel.app/api?username=prestondevs&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="prestondevs's GitHub stats" /></a>
 
 <a href="http://www.github.com/prestondevs"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prestondevs&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
 
 ---
 
