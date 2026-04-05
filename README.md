@@ -63,7 +63,7 @@
 
 > **C++17 · x86-64 Assembly · ELF · GNU Toolchain**
 
-A custom programming language and compiler built from scratch. Translates `.ir` source files through a full pipeline — lexing, parsing, AST construction, and direct x86-64 assembly code generation, producing native ELF binaries via the GNU toolchain. Implements a tagged value runtime system supporting integers, floats, strings, variables, and function calls with parameter passing.
+A custom programming language and compiler built from scratch. Translates `.ir` source files through a full pipeline; lexing, parsing, AST construction, and direct x86-64 assembly code generation, producing native ELF binaries via the GNU toolchain. Implements a tagged value runtime system supporting integers, floats, strings, variables, and function calls with parameter passing.
 
 
 ---
