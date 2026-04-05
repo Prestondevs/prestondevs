@@ -2,7 +2,7 @@
 
 # Hey, I'm Preston
 
-**Computer Science Student and Cybersecurity Researcher, President of the Cybersecurity club "DayZero**
+**Computer Science Student and Cybersecurity Researcher, President of the Cybersecurity club "DayZero"**
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/prestondevs)
 
