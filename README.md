@@ -20,6 +20,8 @@
 <br>
 <br>
 
+</div>
+
 ---
 
 ### Skills
