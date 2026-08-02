@@ -1,13 +1,5 @@
 <div align="center">
 
-<img src="images/welcome.gif" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-
-<h1><a href="https://prestondevs.github.io">website</a></h1>
-<h1></h1>
-
-
-<h6>I'm preston, I enjoy working with C++, C, and all kinds of low-level stuff</h6>
-
 [![Total Stars](https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=ff4d4d&style=for-the-badge&labelColor=17202a&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/prestondevs)](https://github.com/prestondevs)
 [![Total Forks](https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=ff4d4d&style=for-the-badge&labelColor=17202a&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/prestondevs)](https://github.com/prestondevs)
 
@@ -45,8 +37,6 @@
 ---
 
 <div align="center">
-
-[![Website](https://img.shields.io/badge/%F0%9F%8C%90%20Website-prestondevs.github.io-ff4d4d?style=for-the-badge&labelColor=17202a)](https://prestondevs.github.io)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prestondevs/Prestondevs/output/github-snake-dark.svg" />
